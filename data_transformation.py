@@ -25,6 +25,7 @@ class transformer_TSP(nn.Module):
         
         
         
+        
 
 # Localization Network of RARE
 class localization_network(nn.Module):
